@@ -24,7 +24,7 @@ coding
  - print few logs, so to trace flow
  - BasicScheduler, contians all logic within using inner classes
 
-Class structure
+## Class structure
     ScheduleTest - basic test for scheduler
     Vehicle(Interface)
         - Truck
